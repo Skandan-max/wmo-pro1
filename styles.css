@@ -30,7 +30,7 @@ a:hover{
 .item{
     background-color: rgb(220, 236, 231);
     
-    padding: 20px;
+   
     font-size: 24px;
 
 }
@@ -63,6 +63,7 @@ h2:hover{
     color: white;
     z-index: 2;
     font-size: 22px;
+     padding: 20px;
 
 }
 
